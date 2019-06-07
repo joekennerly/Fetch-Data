@@ -1,0 +1,9 @@
+.foodList {
+  border:1px solid black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly
+}
+.foodItem {
+  border:1px solid red;
+}
